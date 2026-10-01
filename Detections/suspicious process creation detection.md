@@ -242,9 +242,8 @@ This provides more context than detecting the process relationship alone.
 
 ### Splunk Detection Result
 
-![Suspicious Process Detection](../screenshots/suspicious-process.png)
+![Suspicious Process Detection](../screenshots/suspicious-process-creation-detection.png)
 
-The screenshot should show the Splunk search result containing the detected process relationship.
 
 ---
 
