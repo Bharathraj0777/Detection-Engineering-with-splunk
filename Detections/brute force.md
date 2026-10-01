@@ -197,10 +197,9 @@ The threshold should be validated against the organization's baseline rather tha
 
 ### Splunk Detection Result
 
-Add the screenshot of the successful detection test below.
-
 ```markdown
-![Brute Force Detection Result](../screenshots/brute-force-detection.png)
+<img width="1917" height="940" alt="image" src="https://github.com/user-attachments/assets/c688dcca-3e2e-4961-a422-1d83dabdf61a" />
+
 ```
 
 The screenshot should show the Splunk search result containing the detected source IP, username, and failed-attempt count.
