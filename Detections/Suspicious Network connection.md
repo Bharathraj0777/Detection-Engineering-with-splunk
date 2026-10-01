@@ -249,9 +249,9 @@ This provides significantly more context for a SOC analyst.
 
 ### Splunk Detection Result
 
-![Suspicious Network Detection](../screenshots/suspicious-network.png)
+![Suspicious Network Detection]( ../Screenshots/suspicious network connection detection.png)
 
-The screenshot should show the Splunk search result containing the PowerShell network connection.
+The screenshot is located in Screenshots/suspicious network connection detection.png  path
 
 ---
 
