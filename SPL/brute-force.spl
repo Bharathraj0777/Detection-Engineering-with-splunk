@@ -1,0 +1,7 @@
+# Brute Force Authentication Detection
+# MITRE ATT&CK: T1110 - Brute Force
+
+index=windows EventCode=4625
+| bin _time span=5m
+| stats count as failed_attempts by _time,src_ip,user
+| where failed_attempts >= 3
