@@ -67,12 +67,11 @@ Telemetry
 - [x] Splunk Enterprise setup
 - [x] Windows index created
 - [x] Synthetic security telemetry imported
-- [ ] Brute-force detection
-- [ ] PowerShell detection
-- [ ] Process execution detection
-- [ ] LSASS access detection
-- [ ] Network detection
-- [ ] Alert configuration
-- [ ] Detection tuning
-- [ ] SOC dashboard
-- [ ] Final documentation
+- [x] Brute-force detection
+- [x] PowerShell detection
+- [x] Process execution detection
+- [x] LSASS access detection
+- [x] Network detection
+- [x] Alert configuration
+- [x] Detection tuning
+- [x] Final documentation
