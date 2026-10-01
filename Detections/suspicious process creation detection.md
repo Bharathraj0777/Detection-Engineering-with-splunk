@@ -242,7 +242,7 @@ This provides more context than detecting the process relationship alone.
 
 ### Splunk Detection Result
 
-![Suspicious Process Detection](../screenshots/suspicious-process-creation-detection.png)
+![Suspicious Process Detection](..Screenshots/suspicious-process-creation-detection.png)
 
 
 ---
