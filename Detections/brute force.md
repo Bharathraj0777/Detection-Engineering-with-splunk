@@ -32,3 +32,11 @@ index=windows EventCode=4625
 | bin _time span=5m
 | stats count as failed_attempts by _time,src_ip,user
 | where failed_attempts >= 3
+
+---
+5. MITRE ATT&CK Mapping
+
+Technique: T1110 – Brute Force
+
+The detection is designed to identify repeated authentication
+failures that may be associated with brute-force activity.
