@@ -168,7 +168,7 @@ Potential tuning approaches include:
 ### Splunk Detection Result
 
 ![Suspicious PowerShell Detection](Screenshots/suspicious-powershell.png)
-
+screen shot is provided in this path Screenshots/suspicious-powershell.png  for this repository
 ---
 
 ## 13. Detection Workflow
