@@ -198,7 +198,7 @@ The threshold should be validated against the organization's baseline rather tha
 ### Splunk Detection Result
 
 ```markdown
-<img width="1917" height="940" alt="image" src="https://github.com/user-attachments/assets/c688dcca-3e2e-4961-a422-1d83dabdf61a" />
+<img width="1902" height="882" alt="image" src="https://github.com/user-attachments/assets/6733324f-8714-4f69-9c4d-26a3149ed852" />
 
 ```
 
