@@ -202,7 +202,7 @@ The threshold should be validated against the organization's baseline rather tha
 
 ```
 
-The screenshot should show the Splunk search result containing the detected source IP, username, and failed-attempt count.
+The screenshot shows the Splunk search result containing the detected source IP, username, and failed-attempt count. Which is located in the above filepath.
 
 ---
 
