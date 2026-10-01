@@ -1,0 +1,7 @@
+# Suspicious Network Connection Detection
+# MITRE ATT&CK: T1071.001 - Web Protocols
+
+index=windows EventCode=3
+| search description="*powershell.exe*"
+| stats count by _time,host,user,description
+| sort - _time
