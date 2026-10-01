@@ -167,7 +167,7 @@ Potential tuning approaches include:
 
 ### Splunk Detection Result
 
-![Suspicious PowerShell Detection](../screenshots/suspicious-powershell.png)
+![Suspicious PowerShell Detection](Screenshots/suspicious-powershell.png)
 
 ---
 
