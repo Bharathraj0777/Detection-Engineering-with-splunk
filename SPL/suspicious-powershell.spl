@@ -1,0 +1,7 @@
+# Suspicious PowerShell Detection
+# MITRE ATT&CK: T1059.001 - PowerShell
+
+index=windows EventCode=4104
+| search description="*EncodedCommand*" OR description="*Invoke-WebRequest*"
+| stats count by _time,host,user,description
+| sort - _time
