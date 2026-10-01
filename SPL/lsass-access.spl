@@ -1,0 +1,7 @@
+# LSASS Access Detection
+# MITRE ATT&CK: T1003.001 - LSASS Memory
+
+index=windows EventCode=10
+| search description="*lsass.exe*"
+| stats count by _time,host,user,description
+| sort - _time
