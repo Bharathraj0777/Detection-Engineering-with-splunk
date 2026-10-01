@@ -1,0 +1,8 @@
+# Suspicious Process Creation Detection
+# MITRE ATT&CK: T1059 - Command and Scripting Interpreter
+
+index=windows EventCode=1
+| search description="*WINWORD.EXE*"
+| search description="*powershell.exe*" OR description="*cmd.exe*"
+| stats count by _time,host,user,description
+| sort - _time
