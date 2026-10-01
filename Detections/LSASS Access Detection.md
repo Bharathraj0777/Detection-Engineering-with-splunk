@@ -223,9 +223,9 @@ This can help reduce false positives.
 
 ### Splunk Detection Result
 
-![LSASS Access Detection](../screenshots/lsass-access.png)
+![LSASS Access Detection](..Screenshots/lsass access detection.png)
 
-The screenshot should show the Splunk search result containing the LSASS access event.
+The Screenshot is in Screenshots/lsass access detection.png this path in this repo
 
 ---
 
